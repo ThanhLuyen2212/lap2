@@ -1,0 +1,16 @@
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\B1.exe
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\B1.deps.json
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\B1.runtimeconfig.json
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\B1.runtimeconfig.dev.json
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\B1.dll
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\ref\B1.dll
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\bin\Debug\net5.0\B1.pdb
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.csproj.AssemblyReference.cache
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.AssemblyInfoInputs.cache
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.AssemblyInfo.cs
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.csproj.CoreCompileInputs.cache
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.dll
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\ref\B1.dll
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.pdb
+C:\Users\ThanhLuyen\Desktop\lap 2\B1\B1\obj\Debug\net5.0\B1.genruntimeconfig.cache
